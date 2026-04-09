@@ -14,6 +14,9 @@ This is a Python-based GUI application that checks the strength of a password an
 - Tkinter
 - Regex
 
+  ## 📸 Output
+![App Screenshot](output.png)
+
 ## ▶️ How to Run
 1. Install Python
 2. Run the file:
